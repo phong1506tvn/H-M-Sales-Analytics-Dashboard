@@ -1,10 +1,30 @@
 # H-M-Sales-Analytics-Dashboard
 Power BI dashboard
-## 📊 Dashboard Overview
+# 📊 Power BI Dashboard Project
 
-### Sales
+## 📌 Overview
+This project analyzes business performance through three main aspects: Sales, Product, and Customer.
+
+---
+## 📊 Sales Analysis
 ![Sales](Sales.png)
-### Product
+
+- Analyze total revenue over time
+- Identify peak sales periods
+- Compare performance across regions
+
+---
+## 📦 Product Analysis
 ![Product](Product.png)
-### Customer
+
+- Identify best-selling products
+- Compare product category performance
+- Detect low-performing products
+
+---
+## 👥 Customer Analysis
 ![Customer](Customer.png)
+
+- Analyze customer segments
+- Identify high-value customers
+- Understand customer purchasing behavior
