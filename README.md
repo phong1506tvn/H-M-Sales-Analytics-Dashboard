@@ -1,6 +1,8 @@
 # H-M-Sales-Analytics-Dashboard
 Power BI dashboard
 # 📊 Power BI Dashboard Project
+## 🔗 Link dashboard online
+https://tinyurl.com/yptfxmum
 ## 📥 Download Power BI File
 👉 [Download here](https://drive.google.com/drive/folders/17-d-Z98tBrQHwK-b25qtipp3xbBJ0rCa?usp=sharing)
 ## 📌 Overview
