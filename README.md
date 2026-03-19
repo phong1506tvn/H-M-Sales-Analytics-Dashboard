@@ -1,4 +1,4 @@
-# H-M-Sales-Analytics-Dashboard
+# H&M-Sales-Analytics-Dashboard
 Power BI dashboard
 # 📊 Power BI Dashboard Project
 ## 🔗 Link dashboard online
