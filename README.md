@@ -2,7 +2,7 @@
 Power BI dashboard
 # 📊 Power BI Dashboard Project
 ## 📥 Download Power BI File
-👉 [Download here](https://drive.google.com/file/d/1gVx1z_u2lwUNQCnqLe-yuGpQX2WyPgSH/view?usp=sharing)
+👉 [Download here](https://drive.google.com/drive/folders/17-d-Z98tBrQHwK-b25qtipp3xbBJ0rCa?usp=sharing)
 ## 📌 Overview
 This project analyzes business performance through three main aspects: Sales, Product, and Customer.
 
