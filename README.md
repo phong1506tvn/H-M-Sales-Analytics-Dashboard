@@ -1,7 +1,8 @@
 # H-M-Sales-Analytics-Dashboard
 Power BI dashboard
 # 📊 Power BI Dashboard Project
-
+## 📥 Download Power BI File
+👉 [Download here](https://drive.google.com/file/d/1gVx1z_u2lwUNQCnqLe-yuGpQX2WyPgSH/view?usp=sharing)
 ## 📌 Overview
 This project analyzes business performance through three main aspects: Sales, Product, and Customer.
 
