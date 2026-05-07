@@ -95,3 +95,19 @@ Các sản phẩm này duy trì doanh thu và sản lượng cao xuyên suốt n
 - Phát hiện các sản phẩm có hiệu suất bán hàng thấp
 
 ---
+## Kết luận chiến lược
+
+- Tập trung phân khúc khách hàng 16–35 tuổi.
+- Đẩy mạnh chiến dịch trong giai đoạn cao điểm tháng 4–6.
+- Duy trì và mở rộng nhóm sản phẩm chủ lực.
+- Tối ưu hệ thống CRM và cá nhân hóa marketing.
+- Tận dụng xu hướng tối giản (màu Dark, thiết kế Solid).
+
+---
+
+## Công cụ sử dụng
+
+- Power BI
+- Data Modeling
+- KPI Design
+- Interactive Dashboard (Bookmark Navigation)
